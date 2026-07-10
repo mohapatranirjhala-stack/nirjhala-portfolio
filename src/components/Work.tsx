@@ -34,7 +34,7 @@ const projects: Project[] = [
     title: "Smart Expense Tracker",
     category: "Cloud-Connected Android Financial Management",
     tools: "Kotlin, Firebase Authentication, Cloud Firestore, MPAndroidChart",
-    image: "/images/placeholder.webp",
+    image: "/images/SmartExpenses.png",
     link: "https://github.com/mohapatranirjhala-stack/Smart-Expense-Tracker",
     apkLink: "https://github.com/mohapatranirjhala-stack/Smart-Expense-Tracker/releases",
     isAndroid: true,
